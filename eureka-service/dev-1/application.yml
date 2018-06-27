@@ -1,0 +1,4 @@
+server:
+  port: 9001
+service:
+  name: "Eureka-service-1"
