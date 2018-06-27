@@ -1,4 +1,4 @@
 server:
   port: 9002
 service:
-  name: Eureka-service-2
+  name: "Eureka-service-2"
